@@ -1,0 +1,1 @@
+App to demo patching a Kubernetes manifest with Spinnaker
